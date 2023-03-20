@@ -1,16 +1,6 @@
-# stepperui02_provider
+<p>
 
-A new Flutter project.
+  <img src = "https://user-images.githubusercontent.com/125651843/226371458-4562bf0b-eb2c-4889-b7a6-ddc1dd935bb4.png" width=20% height=40%>
+  <img src = "https://user-images.githubusercontent.com/125651843/226371354-98a02344-0b63-46f4-b0b6-5646859abdfe.png" width=20% height=40%>
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+</p>
